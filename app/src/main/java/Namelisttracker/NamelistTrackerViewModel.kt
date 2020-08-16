@@ -1,0 +1,4 @@
+package Namelisttracker
+
+class NamelistTrackerViewModel {
+}
